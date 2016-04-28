@@ -1,0 +1,8 @@
+# emacs caches
+*~
+
+# .o files
+*.o
+
+# .html files
+*.html
